@@ -1,0 +1,20 @@
+* {
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "yekan";
+    src: url(/fonts/Yekan.woff?18af8c75ab1951a5e56d544fb858e766) format("woff");
+}
+
+/* ----------------------------------------------------- */
+
+body {
+    font-family: 'yekan';
+    direction: rtl;
+    background-image: url(/images/img_login.png?1dc9fee221008dff8f11e8c5310f9301);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
